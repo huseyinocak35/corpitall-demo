@@ -1,0 +1,20 @@
+{
+  "name": "Corpitall",
+  "short_name": "Corpitall",
+  "start_url": "/corpitall-demo/",
+  "display": "standalone",
+  "background_color": "#0b1820",
+  "theme_color": "#0b1820",
+  "icons": [
+    {
+      "src": "/corpitall-demo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/corpitall-demo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
